@@ -3,14 +3,16 @@
   "version": "1.0.0",
   "description": "Based on Data Structure. Will be 2D first and on Canvas HTML. But could be extended to Swift, etc ...",
   "main": "index.js",
+  "devDependencies": {
+    "vite": "^5.4.2"
+  },
   "scripts": {
-    "start": "http-server . -c-1",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "http-server": "^14.1.1"
+    "pixi.js": "^8.3.4"
   }
 }
