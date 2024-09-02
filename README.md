@@ -11,8 +11,14 @@ References:
 
 ```
 % npm install
-% npm start
+% npx vite
 ```
+
+## Columns
+
+Reference:
+ * [Columns Genesis Manual](https://manuals.sega.com/genesismini/pdf/COLUMNS.pdf)
+ * [Sega Retro](https://segaretro.org/Columns)
 
 ## Data Structure
 
